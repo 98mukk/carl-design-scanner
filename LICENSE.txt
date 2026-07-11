@@ -1,0 +1,16 @@
+CARL - Commercial License
+Copyright (c) 2026 Lake Shore Digital. All rights reserved.
+
+This package is licensed, not sold. By using CARL you agree to:
+
+1. USE. The purchaser may install and use CARL on their own machines,
+   personal or commercial.
+2. NO REDISTRIBUTION. You may not resell, share, sublicense, or publish
+   this package or its source without written permission from
+   Lake Shore Digital.
+3. OUTPUT IS YOURS. Rulebooks and reports you generate with CARL are
+   yours to use however you want, including in client work.
+4. NO WARRANTY. Provided as-is; Lake Shore Digital is not liable for
+   any damages arising from its use.
+
+Resale and distribution rights: sirriondixon@gmail.com
